@@ -1,4 +1,4 @@
-# DiseaseClassifier: Deep Learning in Plant Health Detection 🌱🧠
+# DiseaseClassifier: Computer Vision in Plant Health Detection 🌱🧠
 
 Welcome to the DiseaseClassifier project, a fascinating journey into the world of deep learning. If you're a student eager to explore the realms of artificial intelligence and computer vision, you're in the right place. Our project focuses on developing an application to identify whether plants are healthy or affected by diseases, using the fantastic Kaggle dataset, PlantVillage.
 
