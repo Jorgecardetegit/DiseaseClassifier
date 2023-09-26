@@ -11,7 +11,7 @@ This project focuses on developing an application to identify whether plants are
 - Mobile App Development (Swift) 📱
 
 ### The Dataset
-I'll be working with the PlantVillage dataset from Kaggle, a goldmine of plant images. It features images of various plants of vegetables commonly found in gardens and farms, including Apple, Blueberry, Corn, Tomato, and many more. Images are classified in healthy versions of the plant and different diseases which it can have. 
+I'll be working with the PlantVillage dataset from Kaggle, a goldmine of plant images. It features images of various plants of vegetables commonly found in gardens and farms, including Apple, Blueberry, Corn, Tomato, and many more. Images are classified in healthy versions of the plant and unhealthy versions which can include different type of diseases. 
 
 
 
